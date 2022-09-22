@@ -1,6 +1,6 @@
 # Un Tic Tac
 
-Un Tic Tac was a Puzzle Games about Tic Tac Toe against Computer / AI that (probably) undefeated.
+Un Tic Tac was a Puzzle Games about Tic Tac Toe against Computer / AI that (probably) undefeated, built by concept of Deterministic Finite Automata (DFA).
 
 Goals : you play as O, take turns to complete a row / a column / a diagonal with three O. you lose if your opponent (X) complete a row / a column / a diagonal with three X.
 
